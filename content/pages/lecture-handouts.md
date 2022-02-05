@@ -9,38 +9,548 @@ This section contains notes used to supplement the lectures for the course. Some
 First Half of the Semester
 --------------------------
 
-| LEC # | TOPICS | LECTURER | HANDOUTS | READINGS |
-| --- | --- | --- | --- | --- |
-| 1 | General Class Information. Review of Lewis Bonding Theory | Sarah Tabacco | ([PDF]({{< baseurl >}}/resources/01)) | Ch. 1 |
-| 2 | Resonance | Sarah Tabacco | &nbsp; | Ch. 1 |
-| 3 | Review of Molecular Orbital Theory, Hybridization/LCAO | Sarah Tabacco | ([PDF]({{< baseurl >}}/resources/03)) | Ch. 2 |
-| 4 | Acidity | Sarah Tabacco | ([PDF]({{< baseurl >}}/resources/04)) | Ch. 1 |
-| 5 | Bond Lengths and Strengths/Alkanes | Sarah Tabacco | ([PDF]({{< baseurl >}}/resources/05)) | Ch. 3 |
-| 6 | Conformational Analysis | Sarah Tabacco | &nbsp; | Ch. 3 |
-| 7 | Cycloalkanes | Sarah Tabacco | &nbsp; | Ch. 3 |
-| 8 | Cyclohexane | Sarah Tabacco | &nbsp; | Ch. 3 |
-| 9 | Stereochemistry | Sarah Tabacco | ([PDF]({{< baseurl >}}/resources/06)) | Ch. 5 |
-| 10 | Stereochemistry | Sarah Tabacco | &nbsp; | Ch. 5 |
-| 11 | Free Radical Reactions: Thermo/Kinetics | Sarah Tabacco | ([PDF]({{< baseurl >}}/resources/07)) | Ch. 4 |
-| 12 | Free Radical Reactions: Thermo/Kinetics | Sarah Tabacco | ([PDF]({{< baseurl >}}/resources/08)) | Ch. 4 |
-| 13 | Alkyl Halides/SN2 | Sarah Tabacco | ([PDF]({{< baseurl >}}/resources/09)) | Ch. 6 |
-| 14 | SN2/SN1 | Sarah Tabacco | &nbsp; | Ch. 6 |
-| 15 | SN1/E1 | Sarah Tabacco | &nbsp; | Ch. 6 |
-| 16 | E1/E2 | Sarah Tabacco | &nbsp; | Ch. 6 |
-| 17 | E2 | Sarah Tabacco | &nbsp; | Ch. 6 |
-| 18 | Structure and Synthesis of Alkenes | Sarah Tabacco | &nbsp; | Ch. 7 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURER
+{{< thclose >}}
+{{< thopen >}}
+HANDOUTS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+General Class Information. Review of Lewis Bonding Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/01))
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Resonance
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Molecular Orbital Theory, Hybridization/LCAO
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/03))
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Acidity
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/04))
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Bond Lengths and Strengths/Alkanes
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/05))
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Conformational Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Cycloalkanes
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Cyclohexane
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Stereochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/06))
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Stereochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Free Radical Reactions: Thermo/Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/07))
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Free Radical Reactions: Thermo/Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/08))
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Alkyl Halides/SN2
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/09))
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+SN2/SN1
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+SN1/E1
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+E1/E2
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+E2
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Structure and Synthesis of Alkenes
+{{< tdclose >}}
+{{< tdopen >}}
+Sarah Tabacco
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 7
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Second Half of the Semester
 ---------------------------
 
-| LEC # | TOPICS | LECTURER | HANDOUTS | READING |
-| --- | --- | --- | --- | --- |
-| 19-21 | The Alkene Double Bond: A Focus of Reactivity.  {{< br >}}Polar and Concerted Addition Reactions. Hydrogenation, Addition of HX (Markovnikov Addition), Halogenation. Epoxidation, Hydroboration (Anti-Markovnikov Addition), Osmylation and Ozonolysis. Alkene Polymerization. | Barbara Imperiali | ([PDF]({{< baseurl >}}/resources/10)) | 7.1, 7.2, 7.7, 8.1, 8.2, 8.3-8.5, 8.8, 8.10-8.11, 8.12-8.15, 8.16 |
-| 22-24 | ALKYNES: Structure and Bonding.  {{< br >}}Introduction to the Alkyne Triple Bond.  {{< br >}}  {{< br >}}ALKYNES: Synthesis and Reactions. Alkylation of Acetylide Anions (A Carbon Nucleophile). Addition Reactions to Alkynes, Hydrogenation, Halogenation and HX. Hydration of Alkynes, Tautomerization. | Barbara Imperiali | ([PDF]({{< baseurl >}}/resources/11)) | 9.1-9.5, 9.6, 9.7, 9.9 |
-| 25-26 | ALCOHOLS: Structure, Synthesis and Reactions. Structure and Bonding. Acidity (brief review)Synthesis of Alcohols (methods to date and new strategies). Organometallic Reagents, Reactivity and Basicity. Reaction of Carbonyl Compounds with Grignard and Organolithium Reagents. REDOX Relationships amongst Alcohols, Aldehydes and Ketones and Carboxylic acids. Alcohols as Nucleophiles (Formation of Alkoxides) and Electrophiles (Formation of Osylates). Esterification. | Barbara Imperiali | ([PDF]({{< baseurl >}}/resources/12)) | 10.1-10.6, 10.7, 10.8, 10.9-10.12, 11.1-11.3, 11.5-11.9, 11.12, 11.14 |
-| 27-28 | AROMATIC COMPOUNDS: Structure and Reactions.  {{< br >}}2, 3, and 4 Pi Electron Systems. Benzene - The Prototypic Aromatic System. What is "Aromaticity"? Huckel's Rule. Identifying Aromatic Systems. Charged and Neutral Species. Polycyclics and Heterocyclic. Reaction Chemistry of Aromatic Compounds - Electrophilic Aromatic Substitution: Halogenation, Nitration, Sulfonylation and Friedel-Crafts Alkylation and Acylation. | Barbara Imperiali | ([PDF]({{< baseurl >}}/resources/13)) | 15.1-15.4, 16.1-16.10, 16.13, 17.1-17.5, 17.10-17.11 |
-| 29-31 | Directing Effects in Electophilic Aromatic Substitution. Nucleophilic Aromatic Substitution. Strategies in the Synthesis of Multisubstituted Benzene Derivatives.  {{< br >}}  {{< br >}}CARBONYL COMPOUNDS: Summary of Various Types of Carbonyl Compounds - Aldehydes and Ketones, Carboxylic Acids and Carboxylic Acid Derivatives (Acid Chlorides, Acid Anhydrides, Esters and Amides). | Barbara Imperiali | ([PDF]({{< baseurl >}}/resources/14)) | 17.6-17.9, 17.12, 18.1-18.4 |
-| 32 | Synthesis of Aldehydes and Ketones | Barbara Imperiali | &nbsp; |
-| 33 | Reactions of Carbonyl Compounds with the Carbonyl Group as an Electrophile with H, C, N and O Nucleophiles. | Barbara Imperiali | &nbsp; |
-| 34 | Carbonyl Reactivity at the Alpha C-H (Enols and Enolates) | Barbara Imperiali | &nbsp; |
-| 35 | Wrap Up | Barbara Imperiali | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURER
+{{< thclose >}}
+{{< thopen >}}
+HANDOUTS
+{{< thclose >}}
+{{< thopen >}}
+READING
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-21
+{{< tdclose >}}
+{{< tdopen >}}
+The Alkene Double Bond: A Focus of Reactivity.  
+Polar and Concerted Addition Reactions. Hydrogenation, Addition of HX (Markovnikov Addition), Halogenation. Epoxidation, Hydroboration (Anti-Markovnikov Addition), Osmylation and Ozonolysis. Alkene Polymerization.
+{{< tdclose >}}
+{{< tdopen >}}
+Barbara Imperiali
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/10))
+{{< tdclose >}}
+{{< tdopen >}}
+7.1, 7.2, 7.7, 8.1, 8.2, 8.3-8.5, 8.8, 8.10-8.11, 8.12-8.15, 8.16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22-24
+{{< tdclose >}}
+{{< tdopen >}}
+ALKYNES: Structure and Bonding.  
+Introduction to the Alkyne Triple Bond.  
+  
+ALKYNES: Synthesis and Reactions. Alkylation of Acetylide Anions (A Carbon Nucleophile). Addition Reactions to Alkynes, Hydrogenation, Halogenation and HX. Hydration of Alkynes, Tautomerization.
+{{< tdclose >}}
+{{< tdopen >}}
+Barbara Imperiali
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/11))
+{{< tdclose >}}
+{{< tdopen >}}
+9.1-9.5, 9.6, 9.7, 9.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+ALCOHOLS: Structure, Synthesis and Reactions. Structure and Bonding. Acidity (brief review)Synthesis of Alcohols (methods to date and new strategies). Organometallic Reagents, Reactivity and Basicity. Reaction of Carbonyl Compounds with Grignard and Organolithium Reagents. REDOX Relationships amongst Alcohols, Aldehydes and Ketones and Carboxylic acids. Alcohols as Nucleophiles (Formation of Alkoxides) and Electrophiles (Formation of Osylates). Esterification.
+{{< tdclose >}}
+{{< tdopen >}}
+Barbara Imperiali
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/12))
+{{< tdclose >}}
+{{< tdopen >}}
+10.1-10.6, 10.7, 10.8, 10.9-10.12, 11.1-11.3, 11.5-11.9, 11.12, 11.14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27-28
+{{< tdclose >}}
+{{< tdopen >}}
+AROMATIC COMPOUNDS: Structure and Reactions.  
+2, 3, and 4 Pi Electron Systems. Benzene - The Prototypic Aromatic System. What is "Aromaticity"? Huckel's Rule. Identifying Aromatic Systems. Charged and Neutral Species. Polycyclics and Heterocyclic. Reaction Chemistry of Aromatic Compounds - Electrophilic Aromatic Substitution: Halogenation, Nitration, Sulfonylation and Friedel-Crafts Alkylation and Acylation.
+{{< tdclose >}}
+{{< tdopen >}}
+Barbara Imperiali
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/13))
+{{< tdclose >}}
+{{< tdopen >}}
+15.1-15.4, 16.1-16.10, 16.13, 17.1-17.5, 17.10-17.11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29-31
+{{< tdclose >}}
+{{< tdopen >}}
+Directing Effects in Electophilic Aromatic Substitution. Nucleophilic Aromatic Substitution. Strategies in the Synthesis of Multisubstituted Benzene Derivatives.  
+  
+CARBONYL COMPOUNDS: Summary of Various Types of Carbonyl Compounds - Aldehydes and Ketones, Carboxylic Acids and Carboxylic Acid Derivatives (Acid Chlorides, Acid Anhydrides, Esters and Amides).
+{{< tdclose >}}
+{{< tdopen >}}
+Barbara Imperiali
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/14))
+{{< tdclose >}}
+{{< tdopen >}}
+17.6-17.9, 17.12, 18.1-18.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Synthesis of Aldehydes and Ketones
+{{< tdclose >}}
+{{< tdopen >}}
+Barbara Imperiali
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Reactions of Carbonyl Compounds with the Carbonyl Group as an Electrophile with H, C, N and O Nucleophiles.
+{{< tdclose >}}
+{{< tdopen >}}
+Barbara Imperiali
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Carbonyl Reactivity at the Alpha C-H (Enols and Enolates)
+{{< tdclose >}}
+{{< tdopen >}}
+Barbara Imperiali
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap Up
+{{< tdclose >}}
+{{< tdopen >}}
+Barbara Imperiali
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
